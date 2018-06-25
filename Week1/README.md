@@ -1,3 +1,3 @@
-# Dia 1: Introducción a la electrónica:
+# Dia 1:
 
-## Toda la materia está hecha de cosas
+## Introducción a la electrónica
